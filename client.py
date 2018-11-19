@@ -21,7 +21,7 @@ while True:
 			cmd_push += ' '+a
 			print("new:",a)
 		cmd_push += '&&git commit -m "new"'
-		cmd_push += "&&git push origin master"
+		cmd_push += "&&git push model master"
 		print(os.popen(cmd_push).read())
 	sleep(60*60*1)
 
