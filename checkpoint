@@ -1,2 +1,2 @@
-model_checkpoint_path: "DnCNN-tensorflow-30450"
-all_model_checkpoint_paths: "DnCNN-tensorflow-30450"
+model_checkpoint_path: "DnCNN-tensorflow-34800"
+all_model_checkpoint_paths: "DnCNN-tensorflow-34800"
